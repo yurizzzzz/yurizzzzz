@@ -1,6 +1,8 @@
 # :smirk: Hi! I'm Yuri, nice to see you
 ![](https://www.hualigs.cn/image/60ae54e45e85e.jpg)
 ## :eyes: About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FanDady&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+
 - :mortar_board: I’m currently a student stuudying in Fuzhou University,China.at present,I have been admitted to Tianjin University,China and continue to study for a graduate degree
 - :muscle: Sports: Playing basketbal, football, badminton, running, swimming, etc
 - :computer: Playing video games: PUBG, CS:GO, LOL, King of Glory, Call of Duty, CF, etc
@@ -33,11 +35,17 @@
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=Machine-Learning)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=Deep-Learning)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=flat&logo=Machine-Learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=Deep-Learning&logoColor=white)
 
-## Contact Me
-<a href="Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat-square&logo=gmail"></a>
+## :telephone_receiver: Contact Me
+<a href="Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="1140021702"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ"></a>
+<a href="Yuri_FanZhiwei"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-Yuri_FanZhiwei-blue?style=flat&logo=WeChat"></a>
+<a href="Steam"><img alt="Steam" src="https://img.shields.io/badge/Steam-1189404453-blue?style=flat&logo=Steam"></a>
+[![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/fan-zhi-wei-68)
+[![CSDN](https://img.shields.io/badge/-CSDN-333333?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_43711697)
+
 
 
 
