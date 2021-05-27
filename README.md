@@ -39,7 +39,7 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=Deep-Learning&logoColor=white)
 
 ## :telephone_receiver: Contact Me
-<a href="Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="1140021702"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ"></a>
 <a href="Yuri_FanZhiwei"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-Yuri_FanZhiwei-blue?style=flat&logo=WeChat"></a>
 <a href="Steam"><img alt="Steam" src="https://img.shields.io/badge/Steam-1189404453-blue?style=flat&logo=Steam"></a>
