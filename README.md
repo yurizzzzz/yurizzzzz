@@ -6,7 +6,7 @@
 - :mortar_board: I’m currently a student stuudying in Fuzhou University,China.at present,I have been admitted to Tianjin University,China and continue to study for a graduate degree
 - :muscle: Sports: Playing basketbal, football, badminton, running, swimming, etc
 - :computer: Playing video games: PUBG, CS:GO, LOL, King of Glory, Call of Duty, CF, etc
-- :email: How to reach me: [yuri.fanzhiwei@gmail.com](https://1140021702@qq.com)
+- :email: How to reach me: [yuri.fanzhiwei@gmail.com](yuri.fanzhiwei@gmail.com)
 - 💬 Ask me about DeepLearning, AI Algorithms, life, etc
 - :moneybag: Work hard and earn more money!
 
@@ -39,7 +39,7 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=flat&logo=Deep-Learning&logoColor=white)
 
 ## :telephone_receiver: Contact Me
-<a href="https://Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="1140021702"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ"></a>
 <a href="Yuri_FanZhiwei"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-Yuri_FanZhiwei-blue?style=flat&logo=WeChat"></a>
 <a href="Steam"><img alt="Steam" src="https://img.shields.io/badge/Steam-1189404453-blue?style=flat&logo=Steam"></a>
