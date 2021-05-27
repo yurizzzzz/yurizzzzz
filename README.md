@@ -40,7 +40,7 @@
 
 ## :telephone_receiver: Contact Me
 <a href="mailto:Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1140021702&website=www.oicqzone.com"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ"></a>
+<a href="1140021702@qq.com"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ"></a>
 <a href="Yuri_FanZhiwei"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-Yuri_FanZhiwei-blue?style=flat&logo=WeChat"></a>
 <a href="Steam"><img alt="Steam" src="https://img.shields.io/badge/Steam-1189404453-blue?style=flat&logo=Steam"></a>
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/fan-zhi-wei-68)
