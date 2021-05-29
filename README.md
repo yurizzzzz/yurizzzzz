@@ -7,7 +7,7 @@
 - :muscle: Sports: Playing basketbal, football, badminton, running, swimming, etc
 - :computer: Playing video games: PUBG, CS:GO, LOL, King of Glory, Call of Duty, CF, etc
 - :email: How to reach me: [yuri.fanzhiwei@gmail.com](mailto:yuri.fanzhiwei@gmail.com)
-- 💬 Ask me about DeepLearning, AI Algorithms, life, etc
+- 💬 Ask me about DeepLearning, Maching learning, AI Algorithms, life, etc
 - :moneybag: Work hard and earn more money!
 
 ## :wrench: Tech Stacks
