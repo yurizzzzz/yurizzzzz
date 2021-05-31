@@ -6,7 +6,7 @@
 - :mortar_board: I’m currently a student stuudying in Fuzhou University,China.at present,I have been admitted to Tianjin University,China and continue to study for a graduate degree
 - :muscle: Sports: Playing basketbal, football, badminton, running, swimming, etc
 - :computer: Playing video games: PUBG, CS:GO, LOL, King of Glory, Call of Duty, CF, etc
-- :email: How to reach me: [yuri.fanzhiwei@gmail.com](mailto:yuri.fanzhiwei@gmail.com)
+- :mailbox_closed: How to reach me: [yuri.fanzhiwei@gmail.com](mailto:yuri.fanzhiwei@gmail.com)
 - :envelope: Ask me about DeepLearning, Maching learning, AI Algorithms, life, etc
 - :moneybag: Work hard and earn more money!
 
