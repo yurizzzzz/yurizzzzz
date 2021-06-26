@@ -3,7 +3,7 @@
 ## :eyes: About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FanDady&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
 
-- :mortar_board: I’m currently a student stuudying in Fuzhou University,China.at present,I have been admitted to Tianjin University,China and continue to study for a graduate degree
+- :mortar_board: I’m currently a student studying in Tianjin University, Tianjin, China for a master's degree
 - :muscle: Sports: Playing basketbal, football, badminton, running, swimming, etc
 - :computer: Playing video games: PUBG, CS:GO, LOL, King of Glory, Call of Duty, CF, etc
 - :mailbox_closed: How to reach me: [yuri.fanzhiwei@gmail.com](mailto:yuri.fanzhiwei@gmail.com)
