@@ -1,5 +1,5 @@
 # :smirk: Hi! I'm Yuri, nice to see you
-![](https://www.hualigs.cn/image/60af2d1ea3ef2.jpg)
+![](https://img-blog.csdnimg.cn/20210708112134610.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzExNjk3,size_16,color_FFFFFF,t_70)
 ## :eyes: About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FanDady&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
 
