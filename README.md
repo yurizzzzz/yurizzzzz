@@ -1,5 +1,5 @@
 # :smirk: Hi! I'm Yuri, nice to see you
-![](https://img-blog.csdnimg.cn/20210708112134610.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzExNjk3,size_16,color_FFFFFF,t_70)
+![](https://pic.imgdb.cn/item/60e66fb05132923bf8f3381d.png)
 ## :eyes: About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FanDady&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
 
@@ -16,7 +16,6 @@
 ![Matlab](https://img.shields.io/badge/-Matlab-00599C?style=flat&logo=Matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
