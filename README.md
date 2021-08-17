@@ -51,7 +51,7 @@
     </a>
     <img width="3%" />
     <a href="https://twitter.com/ZhiweiFan6">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/twitter.png" width="3%"/>
+        <img src="https://github.com/FanDady/FanDady/blob/main/images/twitter.png" width="4%"/>
     </a>
     <img width="3%" />
     <a href="https://www.youtube.com/channel/UCGa3AFKcZCt8btPnHVuKzRw">
