@@ -1,5 +1,5 @@
 # :smirk: Hi! I'm Yuri, nice to see you
-![](https://pic.imgdb.cn/item/60e66fb05132923bf8f3381d.png)
+![](https://z3.ax1x.com/2021/08/17/f47AL4.png)
 ## :eyes: About Me
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FanDady&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
 
@@ -46,6 +46,10 @@
 [![CSDN](https://img.shields.io/badge/-CSDN-333333?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_43711697)
 
 <div align="center">
+    <a href="mailto:Yuri.Fanzhiwei@gmail.com">
+        <img src="https://z3.ax1x.com/2021/08/17/f47afP.png" width="3%"/>
+    </a>
+    <img width="3%" />
     <a href="https://github.com/FanDady">
         <img src="https://z3.ax1x.com/2021/08/17/f45ZCT.png" width="3%"/>
     </a>
@@ -68,5 +72,9 @@
     <img width="3%" />
     <a href="https://www.zhihu.com/people/fan-zhi-wei-68">
         <img src="https://z3.ax1x.com/2021/08/17/f4oE1U.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://blog.csdn.net/qq_43711697?spm=1000.2115.3001.5343">
+        <img src="https://z3.ax1x.com/2021/08/17/f47j1K.png" width="3%"/>
     </a>
 </div>
