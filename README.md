@@ -51,7 +51,7 @@
     </a>
     <img width="3%" />
     <a href="https://twitter.com/ZhiweiFan6">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/twitter.png" width="4%"/>
+        <img src="https://github.com/FanDady/FanDady/blob/main/images/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.youtube.com/channel/UCGa3AFKcZCt8btPnHVuKzRw">
@@ -64,5 +64,9 @@
     <img width="3%" />
     <a href="https://weibo.com/u/5869896682/home">
         <img src="https://github.com/FanDady/FanDady/blob/main/images/weibo.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://www.zhihu.com/people/fan-zhi-wei-68">
+        <img src="https://github.com/FanDady/FanDady/blob/main/images/zhihu.png" width="3%"/>
     </a>
 </div>
