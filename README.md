@@ -47,26 +47,26 @@
 
 <div align="center">
     <a href="https://github.com/FanDady">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/github.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f45ZCT.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/ZhiweiFan6">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/twitter.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f45rIP.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.youtube.com/channel/UCGa3AFKcZCt8btPnHVuKzRw">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/youtube.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f4Ibkt.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.facebook.com/profile.php?id=100071474933884">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/facebook.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f4oSmj.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://weibo.com/u/5869896682/home">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/weibo.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f4o97n.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://www.zhihu.com/people/fan-zhi-wei-68">
-        <img src="https://github.com/FanDady/FanDady/blob/main/images/zhihu.png" width="3%"/>
+        <img src="https://z3.ax1x.com/2021/08/17/f4oE1U.png" width="3%"/>
     </a>
 </div>
