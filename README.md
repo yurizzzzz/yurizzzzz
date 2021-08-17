@@ -45,13 +45,24 @@
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/fan-zhi-wei-68)
 [![CSDN](https://img.shields.io/badge/-CSDN-333333?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_43711697)
 
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+    <a href="https://github.com/FanDady">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://twitter.com/ZhiweiFan6">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://www.youtube.com/channel/UCGa3AFKcZCt8btPnHVuKzRw">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://www.facebook.com/profile.php?id=100071474933884">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
+    </a>
+    <img width="3%" />
+    <a href="https://weibo.com/u/5869896682/home">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
+    </a>
+</div>
