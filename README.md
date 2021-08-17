@@ -63,6 +63,6 @@
     </a>
     <img width="3%" />
     <a href="https://weibo.com/u/5869896682/home">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
+        <img src="https://github.com/FanDady/FanDady/blob/main/images/weibo.png" width="3%"/>
     </a>
 </div>
