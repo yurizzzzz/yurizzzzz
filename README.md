@@ -38,7 +38,6 @@
 
 ## :telephone_receiver: Contact Me
 <a href="mailto:Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="1140021702@qq.com"><img alt="QQ" src="https://img.shields.io/badge/QQ-1140021702-blue?style=flat&logo=Tencent-QQ&logoColor=white"></a>
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/fan-zhi-wei-68)
 [![CSDN](https://img.shields.io/badge/-CSDN-333333?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_43711697)
 
