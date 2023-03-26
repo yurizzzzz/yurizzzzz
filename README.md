@@ -39,7 +39,6 @@
 ## :telephone_receiver: Contact Me
 <a href="mailto:Yuri.Fanzhiwei@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Yuri.Fanzhiwei@gmail.com-blue?style=flat&logo=gmail"></a>
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084FF?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/fan-zhi-wei-68)
-[![CSDN](https://img.shields.io/badge/-CSDN-333333?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/qq_43711697)
 
 <div align="center">
     <a href="mailto:Yuri.Fanzhiwei@gmail.com">
@@ -70,7 +69,4 @@
         <img src="https://z3.ax1x.com/2021/08/17/f4oE1U.png" width="3%"/>
     </a>
     <img width="3%" />
-    <a href="https://blog.csdn.net/qq_43711697?spm=1000.2115.3001.5343">
-        <img src="https://z3.ax1x.com/2021/08/17/f47j1K.png" width="3%"/>
-    </a>
 </div>
